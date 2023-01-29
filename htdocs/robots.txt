@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /admin_0a8865fc12f70d85f20666ef07ed56d0.php
