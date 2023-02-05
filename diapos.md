@@ -21,10 +21,12 @@ theme: Copenhagen
 # Plan de la scéance
 
 - Un CTF, c'est quoi ?
-- Pourquoi faire des CTFs ?
+- Pourquoi s'intéresser des CTFs ?
+- On y parle de quoi ?
 - Ça s'adresse à qui ?
 - Comment approcher un exercice ?
 - Quelques exercices
+- Comment devenir meilleur.e ?
 - Quels CTFs faire ?
 
 
@@ -86,9 +88,11 @@ Pro tip: dirigez-vous vers les événements à votre mesure.
 
 # L'approche générale
 
+On cherche les bogues. Les bogues de sécurité.
+
 - On reçoit un énoncé de programmation avec quelques cas d'utilisation
 - On prépare des tests en fonction des cas d'utilisation
-- On programme pour le _happy path_
+- On programme pour le _happy path_, le chemin normal
 - On chasse les bogues! Tous ce qui n'est pas sur le _happy path_
 
 On sort des sentiers battus pour trouver les bogues, et on regarde si et comment ça nous avantage.
@@ -144,8 +148,10 @@ Démonstration
 
 
 
-# Les cours de l'UQAM
+# Comment devenir meilleur.e ?
 
+- Familiariser vous avec des technologies
+- Lire des _write-ups_!
 - INF1070 (Linux/UNIX)
 - INF1132 (Logique)
 - INF2171 (Assembleur, systèmes ordinés)
@@ -155,6 +161,8 @@ Démonstration
 - INF3190 (Web)
 - INF3271 (Réseautique)
 - INF600C (shell, Web, binaire)
+
+Il y a toujours plus à apprendre !
 
 
 # Quelques recommandations de CTFs et d'outils
